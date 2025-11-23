@@ -1,0 +1,22 @@
+# this is for limted digit sequence:
+limit = int(input("Enter a number position: "))
+count = 1
+
+for i in range(1, 100): 
+    if i < 10:
+        if count <= limit:
+            print(count, "th digit is", i)
+            count += 1
+    else:
+        tens = i // 10
+        units = i % 10
+
+        if count <= limit:
+            print(count, "th digit is", tens)
+            count += 1
+        if count <= limit:
+            print(count, "th digit is", units)
+            count += 1
+
+  
+ 

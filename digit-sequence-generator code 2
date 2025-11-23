@@ -1,0 +1,11 @@
+# this is for unlimted digit sequence:
+series = ""
+limit = int(input("Enter a number: "))
+i = 1
+
+while len(series) <= limit:
+    series += str(i)
+    i += 1
+
+for i in range(1, limit + 1):
+    print(i ,"th digit is", series[i - 1])

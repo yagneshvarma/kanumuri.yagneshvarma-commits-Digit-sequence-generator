@@ -1,32 +1,36 @@
-Problem Statement
+Problem Statement:-
+
 Design and implement a Python program that generates a continuous sequence of digits from natural numbers and prints each digit alongside its corresponding position. The program should allow users to specify a limit for the sequence, making it an effective tool for learning digit extraction, number processing, and control flow in Python.
 
-Scope of the Project
-The project focuses on digit extraction and sequence generation using integer division and modulo operations.
+Scope of the Project:-
 
-It serves as a beginner-friendly project for those learning Python programming basics.
+1)The project focuses on digit extraction and sequence generation using integer division and modulo operations.
 
-The solution is limited to user-defined digit limits and prints output in a readable format.
+2)It serves as a beginner-friendly project for those learning Python programming basics.
 
-Can be extended to larger numbers and different numeric bases.
+3)The solution is limited to user-defined digit limits and prints output in a readable format.
 
-Target Users
-Beginners in Python programming: To practice and understand basic concepts.
+4)Can be extended to larger numbers and different numeric bases.
 
-CS students: To supplement coursework on number processing, loops, and control structures.
+Target Users:-
 
-Educators: For classroom demonstrations of digit extraction logic.
+1)Beginners in Python programming: To practice and understand basic concepts.
 
-Anyone interested in mathematical programming challenges.
+2)CS students: To supplement coursework on number processing, loops, and control structures.
 
-High-Level Features
-User-defined digit sequence generation: Accepts input for sequence limit.
+3)Educators: For classroom demonstrations of digit extraction logic.
 
-Individual digit extraction: Uses integer and modulo operations for digit calculation.
+4)Anyone interested in mathematical programming challenges.
 
-Sequence position tracking: Prints digits with their sequence position.
+High-Level Features:-
 
-Simple CLI interface: Runs through terminal with easy-to-follow instructions.
+1)User-defined digit sequence generation: Accepts input for sequence limit.
 
-Example output provided: Demonstrates expected behavior.
+2)Individual digit extraction: Uses integer and modulo operations for digit calculation.
+
+3)Sequence position tracking: Prints digits with their sequence position.
+
+4)Simple CLI interface: Runs through terminal with easy-to-follow instructions.
+
+5)Example output provided: Demonstrates expected behavior.
 
